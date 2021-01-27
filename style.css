@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(103, 180, 248);
+}
+h1{
+    background-color: rgb(31, 184, 17);
+    color: rgb(223, 178, 119);
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    font-family: sans-serif;
+ justify-content:space-evenly;
+}
+.grid img{
+    border:2px solid black;
+    border-radius: 50px;
+}
+.origami{
+    border-radius: 20px;
+    background-color: rgb(130, 248, 106);
+    width:300px;
+    font-family: sans-serif;
+}
